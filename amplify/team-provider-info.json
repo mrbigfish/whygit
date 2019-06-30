@@ -1,14 +1,14 @@
 {
     "dev": {
         "awscloudformation": {
-            "AuthRoleName": "site-dev-20190630024437-authRole",
-            "UnauthRoleArn": "arn:aws:iam::032327938464:role/site-dev-20190630024437-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::032327938464:role/site-dev-20190630024437-authRole",
+            "AuthRoleName": "reasoningrock-dev-20190630032322-authRole",
+            "UnauthRoleArn": "arn:aws:iam::032327938464:role/reasoningrock-dev-20190630032322-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::032327938464:role/reasoningrock-dev-20190630032322-authRole",
             "Region": "us-east-2",
-            "DeploymentBucketName": "site-dev-20190630024437-deployment",
-            "UnauthRoleName": "site-dev-20190630024437-unauthRole",
-            "StackName": "site-dev-20190630024437",
-            "StackId": "arn:aws:cloudformation:us-east-2:032327938464:stack/site-dev-20190630024437/891586c0-9b02-11e9-8261-022c6f51bf82"
+            "DeploymentBucketName": "reasoningrock-dev-20190630032322-deployment",
+            "UnauthRoleName": "reasoningrock-dev-20190630032322-unauthRole",
+            "StackName": "reasoningrock-dev-20190630032322",
+            "StackId": "arn:aws:cloudformation:us-east-2:032327938464:stack/reasoningrock-dev-20190630032322/f343bd50-9b07-11e9-8c3e-02649197f7a0"
         }
     }
 }
